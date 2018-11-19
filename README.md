@@ -1,4 +1,4 @@
-# intelligent_baxter
+# Baxter_192
 Make Baxter Robot Smarter Again.  
     
 ## Modules  
